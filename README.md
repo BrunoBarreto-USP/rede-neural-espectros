@@ -5,6 +5,10 @@
 ## Descrição
 Este repositório contém um notebook Jupyter que implementa um pipeline completo de classificação de espectros astronômicos (galáxias, estrelas e quasares) usando uma rede neural em Python com TensorFlow/Keras. O objetivo é demonstrar desde o pré-processamento dos dados brutos até a avaliação do modelo.
 
+## Dados necessários
+- `specObj-dr17.fits (6.7 Gb)` pelo link:
+> https://www.sdss4.org/dr17/spectro/spectro_access/
+
 ## Página Estática
 O notebook convertido está disponível como página estática no GitHub Pages:
 
@@ -12,7 +16,7 @@ O notebook convertido está disponível como página estática no GitHub Pages:
 
 ## Conteúdo do Repositório
 - `rede_neural_espectros1.1.ipynb`: Código principal em Jupyter Notebook.  
-- `rede_neural_espectros1.1.ipynb`: Scripts para extrair dados do SDSS.  
+- `programa01_gerador_de_amostras.ipynb`: Scripts para extrair dados do SDSS.  
 - `requirements.txt`: Dependências necessárias para reproduzir o ambiente.  
 - `README.md`: Este arquivo de apresentação.
 
