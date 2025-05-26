@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
 ## Descrição
-Este repositório contém um notebook Jupyter que implementa um pipeline completo de classificação de espectros astronômicos (galáxias, estrelas e quasares) usando uma rede neural em Python com TensorFlow/Keras. O objetivo é demonstrar desde o pré-processamento dos dados brutos até a avaliação do modelo.
+Este repositório contém notebooks Jupyter que implementam um pipeline completo de classificação de espectros astronômicos (galáxias, estrelas e quasares) usando uma rede neural em Python com TensorFlow/Keras. O objetivo é demonstrar desde o pré-processamento dos dados brutos até a avaliação do modelo.
 
 ## Dados necessários
 - `specObj-dr17.fits (6.7 Gb)` pelo link:
