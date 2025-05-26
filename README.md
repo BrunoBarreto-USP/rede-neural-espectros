@@ -9,6 +9,9 @@ Este repositório contém um notebook Jupyter que implementa um pipeline complet
 - `specObj-dr17.fits (6.7 Gb)` pelo link:
 > https://www.sdss4.org/dr17/spectro/spectro_access/
 
+## ATENÇÂO:
+Modificar os diretórios nos arquivos .ipynb para os seus locais utilizados para o download dos dados
+
 ## Conteúdo do Repositório
 - `rede_neural_espectros1.1.ipynb`: Código principal em Jupyter Notebook.  
 - `programa01_gerador_de_amostras.ipynb`: Scripts para extrair dados do catálogo do SDSS.  
