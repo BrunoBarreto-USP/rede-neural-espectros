@@ -8,7 +8,7 @@ Este repositório contém um notebook Jupyter que implementa um pipeline complet
 ## Página Estática
 O notebook convertido está disponível como página estática no GitHub Pages:
 
-> https://seu-usuario.github.io/rede-neural-espectros/
+> https://BrunoBarreto-USP.github.io/rede-neural-espectros/
 
 ## Conteúdo do Repositório
 - `rede_neural_espectros1.1.ipynb`: Código principal em Jupyter Notebook.  
