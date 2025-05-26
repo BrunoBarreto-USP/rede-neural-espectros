@@ -12,7 +12,7 @@ O notebook convertido está disponível como página estática no GitHub Pages:
 
 ## Conteúdo do Repositório
 - `rede_neural_espectros1.1.ipynb`: Código principal em Jupyter Notebook.  
-- `data/`: Dados do SDSS.  
+- `rede_neural_espectros1.1.ipynb`: Scripts para extrair dados do SDSS.  
 - `requirements.txt`: Dependências necessárias para reproduzir o ambiente.  
 - `README.md`: Este arquivo de apresentação.
 
