@@ -9,7 +9,7 @@ Este repositório contém um notebook Jupyter que implementa um pipeline complet
 - `specObj-dr17.fits (6.7 Gb)` pelo link:
 > https://www.sdss4.org/dr17/spectro/spectro_access/
 
-## ATENÇÂO:
+## ATENÇÃO:
 Modificar os diretórios nos arquivos .ipynb para os seus locais utilizados para o download dos dados
 
 ## Conteúdo do Repositório
